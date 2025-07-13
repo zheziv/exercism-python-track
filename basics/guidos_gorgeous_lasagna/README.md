@@ -6,6 +6,7 @@ Connected to pydev debugger (build 251.26927.74)
 Launching pytest with arguments /Users/zhe.chen/PycharmProjects/exercism-python-track/basics/guidos_gorgeous_lasagna/lasagna_test.py --no-header --no-summary -q in /Users/zhe.chen/PycharmProjects/exercism-python-track/basics/guidos_gorgeous_lasagna
 
 ============================= test session starts ==============================
+
 collecting ... collected 5 items
 
 lasagna_test.py::LasagnaTest::test_EXPECTED_BAKE_TIME PASSED             [ 20%]
