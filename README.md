@@ -5,10 +5,10 @@ Exercises focus on Python fundamentals, data structures, and coding style.
 
 ## 🔧 Completed Concepts
 
-| Concept          | Exercises                   |
-|------------------|-----------------------------|
-| Functions        | Guido's Gorgeous Lasagna    |
-| Boolean          | Ghost Gobble Arcade Game    |
+| Concept          | Exercises                   | Completion Date |
+|------------------|-----------------------------|-----------------|
+| Functions        | Guido's Gorgeous Lasagna    |Jul 13, 2025     |
+| Boolean          | Ghost Gobble Arcade Game    |Jul 20, 2025     |
 
 ## 🗓️ Goal
 
