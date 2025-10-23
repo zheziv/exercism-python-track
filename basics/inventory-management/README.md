@@ -1,4 +1,5 @@
-Test result:
+
+# Test result:
 
 /Users/zhe.chen/PycharmProjects/exercism-python-track/.venv/bin/python -X pycache_prefix=/Users/zhe.chen/Library/Caches/JetBrains/PyCharm2025.2/cpython-cache /Applications/PyCharm.app/Contents/plugins/python-ce/helpers/pydev/pydevd.py --multiprocess --qt-support=auto --client 127.0.0.1 --port 53490 --file /Applications/PyCharm.app/Contents/plugins/python-ce/helpers/pycharm/_jb_pytest_runner.py --path /Users/zhe.chen/PycharmProjects/exercism-python-track/basics/inventory-management/dicts_test.py 
 Testing started at 14:56 ...
