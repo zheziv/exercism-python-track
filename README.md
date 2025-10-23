@@ -9,6 +9,7 @@ Exercises focus on Python fundamentals, data structures, and coding style.
 |------------------|-----------------------------|-----------------|
 | Functions        | Guido's Gorgeous Lasagna    |Jul 13, 2025     |
 | Boolean          | Ghost Gobble Arcade Game    |Jul 20, 2025     |
+| dict             | Inventory Management        |Oct 23, 2025     |
 
 ## 🗓️ Goal
 
